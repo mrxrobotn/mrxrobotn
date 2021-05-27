@@ -43,4 +43,4 @@
 <br>
 <br>
 
-<img align="left" alt="mishra3452's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrxrobotn&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrxrobotn&show_icons=true" />
