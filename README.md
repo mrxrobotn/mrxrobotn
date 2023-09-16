@@ -1,15 +1,14 @@
 ### Hi there I'm Mouez 👋
 
-### I'm a Computer & Network Technician🎓, Graphic Designer🎨, Web Developer💻, Video Maker🎥, Freelancer💺, Gamer🎮
+### I'm a Unreal Engine/Game Developer 🎮 | Web/Mobile Developer 💻📱 | Graphic Designer 🎨 | Tech Enthusiast 🖱️ | Freelancer💺 | Gamer🎮
 
 <!--**mrxrobotn/mrxrobotn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 Diploma in Marketing & Multimedia ...
-- 🖥️ I’m working as a freelancer in Graphic Design ...
-- 📱 I’m currently working as a Unreal Engine Game Developer ...
+- 🖥️ I’m currently working as a Unreal Engine Game Developer ...
 - 💬 Ask me about Anything related to Computer Science ...
 - 😄 Pronouns: ItzRyukk ...
-- ⚡ Fun fact: Thanks to 3D printing, NASA can basically “email” tools to astronauts ...
+- ⚡ Fun fact: Gaming brings people together.
+-  ItzRyukk
 
 ### Connect with me:
 
@@ -19,7 +18,7 @@
 <a href="https://twitter.com/benkhalilmouez">
   <img align="left" alt="Mouez's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/benkhelil-mouez-ab3015151">
+<a href="https://www.linkedin.com/in/benkhalil-mouez">
   <img align="left" alt="Sumit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/mouezbk">
